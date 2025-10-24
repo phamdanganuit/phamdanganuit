@@ -74,9 +74,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamdanganuit&" alt="phamdanganuit" /></p>
 
 ---
-# 🗓️ Contribution Graph / コミット活動グラフ
-
-[![Pham Dang An's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phamdanganuit&bg_color=ffffff&color=0e75b6&line=0099ff&point=0066cc&area=true&hide_border=true)](https://github.com/phamdanganuit)
-![GitHub Contribution Grid](https://github-contributions-api.deno.dev/phamdanganuit.svg?theme=tokyo-night)
 
 ![](https://komarev.com/ghpvc/?username=phamdanganuit)
