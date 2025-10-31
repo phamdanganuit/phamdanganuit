@@ -71,7 +71,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamdanganuit&show_icons=true&locale=ja" alt="phamdanganuit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamdanganuit&" alt="phamdanganuit" /></p>
 
 ---
 
