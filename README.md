@@ -71,7 +71,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamdanganuit&show_icons=true&locale=ja" alt="phamdanganuit" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=phamdanganuit)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ashy-theta.vercel.app?user=phamdanganuit&theme=tokyonight&hide_border=true)](https://github.com/phamdanganuit)
 
 ---
 
