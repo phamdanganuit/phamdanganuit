@@ -59,19 +59,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 | ⚙️ 3. バックエンド & フレームワーク / Back-end & Frameworks | 🗃️ 4. データベース / Databases |
 | :------------------------------------------- | :-------------------------------- |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![Rails](https://skillicons.dev/icons?i=rails) ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![Rails](https://skillicons.dev/icons?i=rails) ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Spring-Boot](https://skillicons.dev/icons?i=spring)
 
 | 🧰 5. 開発ツール / Development Tools | 🎨 6. デザイン・グラフィック / Design & Graphics |
 | :-------------------------------- | :-------------------------------------- |
 | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![Azure](https://skillicons.dev/icons?i=azure) | ![Figma](https://skillicons.dev/icons?i=figma) ![Illustrator](https://skillicons.dev/icons?i=ai) ![Photoshop](https://skillicons.dev/icons?i=ps) |
 
----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamdanganuit&show_icons=true&locale=ja&layout=compact" alt="phamdanganuit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamdanganuit&show_icons=true&locale=ja" alt="phamdanganuit" /></p>
-
-
----
 
 ![](https://komarev.com/ghpvc/?username=phamdanganuit)
