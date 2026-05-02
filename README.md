@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dang An
 ===============================================================================================================================
 
-# こんにちは 👋、ファム・ダン・アンです  
+## こんにちは 👋、ファム・ダン・アンです  
 
 
 ---
@@ -17,8 +17,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 💬 **AI/ML プロジェクト、Web アプリ開発、データチャレンジ** に興味があります。  
   *Interested in open-source AI/ML projects, full-stack web apps, and data science challenges.*  
 
-- ⚡ 得意分野：**React, Next.js, Node.js, Django, LLM ファインチューニング, AI チャットボット構築**。  
-  *Skilled in React, Next.js, Node.js, Django, LLM fine-tuning, and AI chatbot development.*  
+- ⚡ 得意分野：**React, Next.js, Node.js, Django, Spring Boot, LLM ファインチューニング, AI チャットボット構築**。  
+  *Skilled in React, Next.js, Node.js, Django, Spring Boot, LLM fine-tuning, and AI chatbot development.*  
 
 ---
 
@@ -55,11 +55,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 | 🧠 1. プログラミング言語 / Programming Languages | 🎯 2. フロントエンド技術 / Front-end Technologies |
 | :------------------------------------------ | :------------------------------------------ |
-| ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=py) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react) |
+| ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) |
 
 | ⚙️ 3. バックエンド & フレームワーク / Back-end & Frameworks | 🗃️ 4. データベース / Databases |
 | :------------------------------------------- | :-------------------------------- |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![Rails](https://skillicons.dev/icons?i=rails) ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Spring-Boot](https://skillicons.dev/icons?i=spring)
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![Rails](https://skillicons.dev/icons?i=rails) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Spring Boot](https://skillicons.dev/icons?i=spring) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
 
 | 🧰 5. 開発ツール / Development Tools | 🎨 6. デザイン・グラフィック / Design & Graphics |
 | :-------------------------------- | :-------------------------------------- |
