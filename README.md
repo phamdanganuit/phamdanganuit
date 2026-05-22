@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 ## こんにちは 👋、ファム・ダン・アンです  
-
+<h3 align="center">My Japanese Dictaction: <a href="https://kikigaki.vn">kikigaki.vn</a></h3>
 
 ---
 
